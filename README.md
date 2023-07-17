@@ -32,8 +32,9 @@
 - [חתכי חרוט 2](https://cindyjs.org/gallery/main/ConicSections/)
 - [אליפסה היא חתך חרוט - הוכחה](https://www.youtube.com/watch?v=pQa_tWZmlGs)
 - [בניית חתכי חרוט עם חוט](https://www.youtube.com/watch?v=mldZ_7QwLvs)
+- [שיקוף דרך מישור](https://www.geogebra.org/m/nen9dsc6)
 
-### רגע לפני שמתחילים
+#### רגע לפני שמתחילים
 - [מישור משיק](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization/a/tangent-planes)
 
 #### עקומות 
