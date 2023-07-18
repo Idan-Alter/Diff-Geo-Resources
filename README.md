@@ -41,6 +41,7 @@
 - [משפט הופף (Umlaufsatz)](https://mathematik.com/Hopf/)
 - [פרמטריזציה של עקומה](https://www.math3d.org/sliders_plotrange)
 - [המעגל הנושק](https://www.math3d.org/osculating_circle)
+- [וקטורי המהירות והתאוצה](https://www.math3d.org/motion)
 - [מסגרת פרנה](https://www.math3d.org/tnb)
 - [עקמומיות ופיתול](https://stevejtrettel.site/code/2022/curvature-torsion/)
 
