@@ -38,12 +38,18 @@
 - [מישור משיק](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization/a/tangent-planes)
 
 #### עקומות 
-- [משפט הופף (Umlaufsatz)](https://mathematik.com/Hopf/)
 - [פרמטריזציה של עקומה](https://www.math3d.org/sliders_plotrange)
+- [וקטורי המהירות והתאוצה](https://www.math3d.org/motion) 
 - [המעגל הנושק](https://www.math3d.org/osculating_circle)
-- [וקטורי המהירות והתאוצה](https://www.math3d.org/motion)
+- [המעגל הנושק - הבניה של ניוטון](https://www.geogebra.org/m/vkwhpmth)
 - [מסגרת פרנה](https://www.math3d.org/tnb)
 - [עקמומיות ופיתול](https://stevejtrettel.site/code/2022/curvature-torsion/)
+  
+#### עקומות - תוצאות גלובליות 
+- [משפט הופף (Umlaufsatz)](https://mathematik.com/Hopf/)
+- [פלנימטר](https://www.geogebra.org/m/ybtr2y9a)
+- [משפט ארבעת הקודקודים - הוכחה גיאומטרית - מאמר](https://arxiv.org/ftp/math/papers/0609/0609268.pdf)
+- [משפט ז'ורדן - הוכחה יחסית פשוטה - מאמר](https://www.maths.ed.ac.uk/~v1ranick/jordan/thomass.pdf)
 
 
 #### משטחים במרחב
