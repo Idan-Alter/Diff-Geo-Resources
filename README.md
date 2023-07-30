@@ -25,7 +25,9 @@
 
 #### [סיכומי ההרצאות של פרופ' ראובן כהן](https://u.math.biu.ac.il/~cohenr5/adg.pdf)
 
+
 ## כלים אינטראקטיביים
+
 #### גיאומטריה אנליטית
 - [קרני אור באליפסה (למה המוקד נקרא מוקד)](http://www.mathe-vital.de/Physik/7-2.html)
 - [חתכי חרוט](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg)
@@ -42,8 +44,11 @@
 - [וקטורי המהירות והתאוצה](https://www.math3d.org/motion) 
 - [המעגל הנושק](https://www.math3d.org/osculating_circle)
 - [המעגל הנושק - הבניה של ניוטון](https://www.geogebra.org/m/vkwhpmth)
-- [מסגרת פרנה](https://www.math3d.org/tnb)
+- [מסגרת פרנה-סרה](https://www.math3d.org/tnb)
+- [אורך קשת ועקמומיות](https://math.animations.fossee.in/contents/calculus-of-several-variables/the-geometry-of-planes-and-curves/arc-length-and-curvature)
 - [עקמומיות ופיתול](https://stevejtrettel.site/code/2022/curvature-torsion/)
+- [אוולוט](https://en.wikipedia.org/wiki/Evolute)
+
   
 #### עקומות - תוצאות גלובליות 
 - [משפט הופף (Umlaufsatz)](https://mathematik.com/Hopf/)
@@ -53,10 +58,13 @@
 
 
 #### משטחים במרחב
+- [משטחים רגלוריים ולא רגולריים](https://www.geogebra.org/3d/y2j5c8kn)
+- [כלי לציור משטחים ועקומות עם הרבה דוגמאות](http://weitz.de/plot/)
+- [המישור המשיק](https://www.geogebra.org/3d/scwaysta)
+- [המטריקה של ההצבה הקוטבית](https://www.geogebra.org/calculator/gqdg8t7n)
+- [טבעת מביוס - נורמל](https://www.geogebra.org/3d/xwuy5qva)
 - [משטח מסורגל](https://www.math3d.org/ruled_hyperboloid)
-- [כלי לציור משטחים ועקומות](http://weitz.de/plot/)
 - [עקמומיות](https://ciechanow.ski/curves-and-surfaces/)
-- [המישור המשיק](https://stevejtrettel.site/code/2023/tangent-plane/)
   
 #### קווים גאודזים
 - [גליל](https://stevejtrettel.site/code/2021/geodesics-cylinder/)
