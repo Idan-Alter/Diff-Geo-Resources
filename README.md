@@ -63,6 +63,8 @@
 - [המישור המשיק](https://www.geogebra.org/3d/scwaysta)
 - [המטריקה של ההצבה הקוטבית](https://www.geogebra.org/calculator/gqdg8t7n)
 - [טבעת מביוס - נורמל](https://www.geogebra.org/3d/xwuy5qva)
+- [העתקת גאוס רודריגז](https://www.geogebra.org/m/jkudy6bf)
+- [חתך נורמלי](https://www.geogebra.org/m/due3me5k)
 - [משטח מסורגל](https://www.math3d.org/ruled_hyperboloid)
 - [עקמומיות](https://ciechanow.ski/curves-and-surfaces/)
   
