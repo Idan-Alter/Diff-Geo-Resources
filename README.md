@@ -73,10 +73,12 @@
 - [פעמון גאוס](https://stevejtrettel.site/code/2022/gaussian-geodesics/)
 - [פסאודו-ספרה](https://stevejtrettel.site/code/2020/pseudosphere/)
   
-## שונות
+## Youtube
 - [גא"ד מנקודת מבט של פיזיקאים](https://www.youtube.com/watch?v=kGXr1SF3WmA&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
+- [בניית גיאודזים (צרפתית - תפעילו תרגום אוטומטי)](https://www.youtube.com/watch?v=1lX3UHwEYlU)
+- [Steve Mould - caustics](https://www.youtube.com/watch?v=wk67eGXtbIw)
 
-#### ספרים מומלצים
+## ספרים מומלצים
 - [Geometry and the Imagination](https://en.wikipedia.org/wiki/Geometry_and_the_Imagination)
 - [Visual Differential Geometry and Forms](https://www.vdgf.space/)
 - [Differential Geometry of Curves and Surfaces](https://link.springer.com/book/10.1007/978-3-319-39799-3)
