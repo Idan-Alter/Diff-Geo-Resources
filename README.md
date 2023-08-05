@@ -32,8 +32,6 @@
 - [קרני אור באליפסה (למה המוקד נקרא מוקד)](http://www.mathe-vital.de/Physik/7-2.html)
 - [חתכי חרוט](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg)
 - [חתכי חרוט 2](https://cindyjs.org/gallery/main/ConicSections/)
-- [אליפסה היא חתך חרוט - הוכחה](https://www.youtube.com/watch?v=pQa_tWZmlGs)
-- [בניית חתכי חרוט עם חוט](https://www.youtube.com/watch?v=mldZ_7QwLvs)
 - [שיקוף דרך מישור](https://www.geogebra.org/m/nen9dsc6)
 
 #### רגע לפני שמתחילים
@@ -75,8 +73,10 @@
   
 ## Youtube
 - [גא"ד מנקודת מבט של פיזיקאים](https://www.youtube.com/watch?v=kGXr1SF3WmA&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
-- [בניית גיאודזים (צרפתית - תפעילו תרגום אוטומטי)](https://www.youtube.com/watch?v=1lX3UHwEYlU)
-- [Steve Mould - caustics](https://www.youtube.com/watch?v=wk67eGXtbIw)
+- [אליפסה היא חתך חרוט - הוכחה](https://www.youtube.com/watch?v=pQa_tWZmlGs)
+- [בניית חתכי חרוט עם חוט](https://www.youtube.com/watch?v=mldZ_7QwLvs)
+- [בניית גיאודזים (צרפתית - הפעילו תרגום אוטומטי)](https://www.youtube.com/watch?v=1lX3UHwEYlU)
+- [caustics](https://www.youtube.com/watch?v=wk67eGXtbIw)
 
 ## ספרים מומלצים
 - [Geometry and the Imagination](https://en.wikipedia.org/wiki/Geometry_and_the_Imagination)
