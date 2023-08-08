@@ -70,13 +70,15 @@
 - [גליל](https://stevejtrettel.site/code/2021/geodesics-cylinder/)
 - [פעמון גאוס](https://stevejtrettel.site/code/2022/gaussian-geodesics/)
 - [פסאודו-ספרה](https://stevejtrettel.site/code/2020/pseudosphere/)
+- [העברה במקביל על הספרה](https://www.geogebra.org/m/upcrs4en)
   
-## Youtube
+## סרטונים
 - [גא"ד מנקודת מבט של פיזיקאים](https://www.youtube.com/watch?v=kGXr1SF3WmA&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
 - [אליפסה היא חתך חרוט - הוכחה](https://www.youtube.com/watch?v=pQa_tWZmlGs)
 - [בניית חתכי חרוט עם חוט](https://www.youtube.com/watch?v=mldZ_7QwLvs)
 - [בניית גיאודזים (צרפתית - הפעילו תרגום אוטומטי)](https://www.youtube.com/watch?v=1lX3UHwEYlU)
 - [caustics](https://www.youtube.com/watch?v=wk67eGXtbIw)
+- [משפט סטוקס המוכלל](https://www.youtube.com/watch?v=1lGM5DEdMaw)
 
 ## ספרים מומלצים
 - [Geometry and the Imagination](https://en.wikipedia.org/wiki/Geometry_and_the_Imagination)
