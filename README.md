@@ -70,6 +70,7 @@
 - [פעמון גאוס](https://stevejtrettel.site/code/2022/gaussian-geodesics/)
 - [פסאודו-ספרה](https://stevejtrettel.site/code/2020/pseudosphere/)
 - [העברה במקביל על הספרה](https://www.geogebra.org/m/upcrs4en)
+- [כרכרה המצביעה לדרום](https://www.youtube.com/watch?v=YzUKr621gr4)
   
 ## סרטונים
 - [גא"ד מנקודת מבט של פיזיקאים](https://www.youtube.com/watch?v=kGXr1SF3WmA&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
