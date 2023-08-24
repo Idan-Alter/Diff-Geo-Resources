@@ -51,8 +51,7 @@
 #### עקומות - תוצאות גלובליות 
 - [משפט הופף (Umlaufsatz)](https://mathematik.com/Hopf/)
 - [פלנימטר](https://www.geogebra.org/m/ybtr2y9a)
-- [משפט ארבעת הקודקודים - הוכחה גיאומטרית - מאמר](https://arxiv.org/ftp/math/papers/0609/0609268.pdf)
-- [משפט ז'ורדן - הוכחה יחסית פשוטה - מאמר](https://www.maths.ed.ac.uk/~v1ranick/jordan/thomass.pdf)
+
 
 
 #### משטחים במרחב
@@ -79,6 +78,11 @@
 - [בניית גיאודזים (צרפתית - הפעילו תרגום אוטומטי)](https://www.youtube.com/watch?v=1lX3UHwEYlU)
 - [caustics](https://www.youtube.com/watch?v=wk67eGXtbIw)
 - [משפט סטוקס המוכלל](https://www.youtube.com/watch?v=1lGM5DEdMaw)
+
+## שונות
+- [משפט ארבעת הקודקודים - הוכחה גיאומטרית - מאמר](https://arxiv.org/ftp/math/papers/0609/0609268.pdf)
+- [משפט ז'ורדן - הוכחה יחסית פשוטה - מאמר](https://www.maths.ed.ac.uk/~v1ranick/jordan/thomass.pdf)
+- [21 הוכחות לנוסחת אוילר: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 
 ## ספרים מומלצים
 - [Geometry and the Imagination](https://en.wikipedia.org/wiki/Geometry_and_the_Imagination)
