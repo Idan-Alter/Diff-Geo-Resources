@@ -77,6 +77,7 @@
 - [אליפסה היא חתך חרוט - הוכחה](https://www.youtube.com/watch?v=pQa_tWZmlGs)
 - [בניית חתכי חרוט עם חוט](https://www.youtube.com/watch?v=mldZ_7QwLvs)
 - [בניית גיאודזים (צרפתית - הפעילו תרגום אוטומטי)](https://www.youtube.com/watch?v=1lX3UHwEYlU)
+- [סמלי כריסטופל](https://www.youtube.com/watch?v=TvFvL_sMg4g)
 - [caustics](https://www.youtube.com/watch?v=wk67eGXtbIw)
 - [משפט סטוקס המוכלל](https://www.youtube.com/watch?v=1lGM5DEdMaw)
 
